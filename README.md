@@ -4,12 +4,12 @@ Speech recognition.
 
 *DEMO: https://maudnals.github.io/creative-code-jam-december/*
 
-### Required:
+### Requirements
 * Open in Chrome desktop (!mobile not supported)
 * Accept the microphone permission
 * Optionnally, load the script manually (http vs https -> tagged as "unsafe" by chrome). To do so, click on the little shield icon that will appear on the right of chrome's search bar.
 
-### How to play:
+### How to play
 Simply speak (in English) next to your laptop's microphone.
 Use a negative word from time to time to observe the behaviour.
 Say stuff and enjoy the nonsense!
