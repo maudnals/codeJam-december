@@ -7,4 +7,4 @@ Speech recognition.
 Required:
 * Use Chrome desktop as a browser
 * Accept the microphone permission
-* Optionnally, load the http scripts manually (tagged as "unsafe" by chrome)
+* Optionnally, load the script using http manually (http vs https -> tagged as "unsafe" by chrome)
