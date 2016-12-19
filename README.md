@@ -2,7 +2,7 @@
 
 Speech recognition (Michael + Maud)
 
-*DEMO: https://maudnals.github.io/creative-code-jam-december/*
+#### DEMO: https://maudnals.github.io/creative-code-jam-december/
 
 ### Requirements
 * Open in Chrome desktop (!mobile not supported)
@@ -23,5 +23,3 @@ Say stuff and enjoy the nonsense!
 * 1st test from Philipp: https://gist.github.com/philippfromme/66ff159ebb54e18fef44d55b61e3fdf0
 * Image API: http://pixplorer.co.uk/
 * Negative words list: https://github.com/Jia-HongHenryLee/BigDataFinalProject/blob/master/negative-words.json
-
-
