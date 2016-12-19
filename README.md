@@ -1,6 +1,6 @@
 # Creative code jam december
 
-Speech recognition.
+Speech recognition (Michael + Maud)
 
 *DEMO: https://maudnals.github.io/creative-code-jam-december/*
 
