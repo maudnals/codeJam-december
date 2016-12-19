@@ -5,7 +5,7 @@ Speech recognition.
 *DEMO: https://maudnals.github.io/creative-code-jam-december/*
 
 ### Required:
-* Open in Chrome desktop
+* Open in Chrome desktop (!mobile not supported)
 * Accept the microphone permission
 * Optionnally, load the script manually (http vs https -> tagged as "unsafe" by chrome). To do so, click on the little shield icon that will appear on the right of chrome's search bar.
 
