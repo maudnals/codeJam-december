@@ -7,7 +7,7 @@ Speech recognition.
 ### Required:
 * Open in Chrome desktop
 * Accept the microphone permission
-* Optionnally, load the script using http manually (http vs https -> tagged as "unsafe" by chrome). Click on the little shield icon that will appear on the right of chrome's search bar.
+* Optionnally, load the script manually (http vs https -> tagged as "unsafe" by chrome). To do so, click on the little shield icon that will appear on the right of chrome's search bar.
 
 ### How to play:
 Simply start speaking next to your laptop's microphone.
